@@ -1,0 +1,20 @@
+Projeto de estudo com EletronJs
+
+Pasta do projeto
+mkdir web-eletron
+
+Criando o projeto
+npm init -y
+
+Editar no package.json
+
+{
+  "name": "your-app",
+  "version": "0.1.0",
+  "main": "main.js"
+}
+
+Criar aquivo main.js
+
+Isntalar o Electron
+npm install --save-dev electron
