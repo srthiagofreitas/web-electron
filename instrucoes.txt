@@ -15,6 +15,9 @@ Editar no package.json
 }
 
 Criar aquivo main.js
+Criar aquivo .gitignore e adicionar node_modules/
+
+Fazer o primeiro commit
 
 Isntalar o Electron
-npm install --save-dev electron
+npm install electron

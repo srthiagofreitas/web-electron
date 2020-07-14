@@ -1,3 +1,3 @@
-# web-eletron
+# web-electron
 
 Projeto de estudo com ElectronJs

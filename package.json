@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thiagoluan/web-eletron/issues"
   },
-  "homepage": "https://github.com/thiagoluan/web-eletron#readme"
+  "homepage": "https://github.com/thiagoluan/web-eletron#readme",
+  "dependencies": {
+    "electron": "^9.1.0"
+  }
 }
